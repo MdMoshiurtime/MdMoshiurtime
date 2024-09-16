@@ -3,7 +3,7 @@
 
 ![Islamic Greeting](https://media.giphy.com/media/L6Ey6ZCofh63A/giphy.gif)
 
-## Islamic Message 🌙
+## 🌙
 > **"Indeed, with hardship [will be] ease."** – (Qur'an 94:6)
 
 May peace and blessings be upon you. I hope that every visitor finds tranquility and success in their journey.
