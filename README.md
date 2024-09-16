@@ -18,6 +18,6 @@ Hi! I'm **Your Name**, a passionate software developer 🚀. I love to code, sol
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ## Connect with Me 🤝
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourname)
+- [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/md-moshiurrahman15/))
+- [Tinkercad]((https://www.tinkercad.com/users/2FmoV4O4Q4v-md-moshiur-rahman))
 
